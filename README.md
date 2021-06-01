@@ -6,3 +6,5 @@ This project aims to create a low cost implementation for cities and/or independ
 For this reason, devices used to gather data on water quality should be properly placed and suffficiently communicated with the surrounding citizens and should be moved if any citizens reasonably affected desire it to be.
 
 Lastly, while this project aims to acheive the highest accuracy and security of data, it does not, and cannot be used to replace licensed professional water testing and should not be used to this capacity. This project should be at most, used to detect possible anomolies which can trigger further testing of water bodies.
+
+Check out our video for some of the security breakdown: https://youtu.be/EjAqGPslILs
